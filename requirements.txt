@@ -1,0 +1,8 @@
+requests
+python-dotenv
+fastapi[standard]
+sqlalchemy
+pybase64
+datetime
+twilio
+PyExecJS
